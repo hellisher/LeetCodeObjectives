@@ -29,3 +29,5 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
 var array = [2, 10, 2, 3, 1, 56]
 var targetOne = 7
 var test = twoSum(array, targetOne)
+
+//Commit
